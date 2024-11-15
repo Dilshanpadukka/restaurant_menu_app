@@ -11,19 +11,3 @@ A Flutter-based restaurant menu application with a modern UI design. This app al
 - Add items to cart
 - Responsive design
 
-## Project Structure
-restaurant_menu_app/
-├── lib/
-│ ├── constants/
-│ │ └── colors.dart
-│ ├── models/
-│ │ ├── category.dart
-│ │ └── food_item.dart
-│ ├── screens/
-│ │ ├── home_screen.dart
-│ │ └── food_detail_screen.dart
-│ ├── widgets/
-│ │ ├── category_card.dart
-│ │ └── food_card.dart
-│ └── main.dart
-└── README.md
