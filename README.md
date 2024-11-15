@@ -11,4 +11,3 @@ A Flutter-based restaurant menu application with a modern UI design. This app al
 - Add items to cart
 - Responsive design
 
-## Project Structure
