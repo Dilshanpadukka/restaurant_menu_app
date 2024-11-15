@@ -67,7 +67,7 @@ class HomeScreen extends StatelessWidget {
               _buildCategories(),
 
               // Special Deals
-              _buildSpecialDeals(),
+              _buildItems(),
             ],
           ),
         ),
@@ -111,7 +111,7 @@ class HomeScreen extends StatelessWidget {
     );
   }
 
-  Widget _buildSpecialDeals() {
+  Widget _buildItems() {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
